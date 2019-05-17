@@ -1,4 +1,4 @@
-# PeePoo APP
+# PeePoo App
 
 
 Overview
