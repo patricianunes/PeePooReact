@@ -1,68 +1,95 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# PeePoo APP
 
-## Available Scripts
 
-In the project directory, you can run:
+Overview
+---
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Welcome to PeePoo App
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+This is an app for everybody that some time needs to find a bathroom.
+Don't matter if you need to shower your hair or you will go out after work and don't have enought time to go home or if you have an emergency...
 
-### `npm test`
+The objective of the project was to use all the technologies and knowledge that we have learned.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+We wrote the project with **React, Bootstrap, Ruby on Rails**. 
 
-### `npm run build`
+We wrote the tables for Amenities, Locations, Bookings and Users then started to do the associations, next was the controllers for create a CRUD. 
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Still need some good thinks like, more filters for the search, Login/Logout, everything could be better and better.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+Do you want to know better? [BJJKing by Pat](https://pee-poo.herokuapp.com/#/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## What we have Learned
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+By the time we submit this project, we covered new ground in many of the big themes of the course:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Source Control**: Manage and interact with a git repository to store changes to code.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Programming Fundamentals**: Work with server, data base, rubi and rails, use Gems to help to do what we need. Work in a team. Learn how to resolve conficts.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Web Fundamentals**: Learn how communication happens over the internet, and how to structure, style. Also learn how to do associations with diferent tables in the data base, make a "CRUD" for each one. Make new components with React how conect then.
 
-## Learn More
+**Browser Applications**: Dive into Bootstrap use the librarie to get lots of style for free.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Deployment**: Host a static web site in a managed hosting environment using Heroku.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Products and Teams**: Document our code and our code repository so others understand what you've built.
 
-### Code Splitting
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### My big Goals
 
-### Analyzing the Bundle Size
+- Build a web application from scratch, without a starter codebase
+- Use our programming skills to build a app
+- Build an application to a spec that someone else gives you
+- Build a dynamic app that allows people to use in real life
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+---
 
-### Making a Progressive Web App
+<!-- ###Necessary Deliverables
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+A working game, built by you, hosted somewhere on the internet
+A link to your hosted working game in the URL section of your Github repo
+A git repository hosted on Github, with a link to your hosted game, and frequent commits dating back to the very beginning of the project
+A readme.md file with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
+##Emphasis
+*Italic*, **Bold**, ***Both***
 
-### Advanced Configuration
+Alternatively: _italic_, __bold__, ___superfancy___
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+##Starred lists
+* List 1
+* List 2
+* List 3
 
-### Deployment
+##Dashed lists
+- Dashes
+- Work
+- Too
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+## Addition Lists
++ Plus
++ Also
++ Works
 
-### `npm run build` fails to minify
+## Nubered lists
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+1. first
+1. second
+
+links work like this: [text for the link] (http://w3c.org/)
+
+## Images
+![Bill Murray](http://fillmarray.com/400/700)
+
+## Code: backtick city
+Refere to a variable like `counter` in special font.
+
+```
+const hello = function() {
+  console.log('hello');
+}
+``` -->
