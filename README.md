@@ -18,7 +18,7 @@ We wrote the tables for Amenities, Locations, Bookings and Users then started to
 
 Still need some good thinks like, more filters for the search, Login/Logout, everything could be better and better.
 
-Do you want to know better? [BJJKing by Pat](https://pee-poo.herokuapp.com/#/)
+Do you want to know better? [PeePoo by Pat, Ritika and Mila](https://pee-poo.herokuapp.com/#/)
 
 ---
 
