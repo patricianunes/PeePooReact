@@ -1,4 +1,5 @@
 # PeePoo App
+[PeePoo by Pat, Ritika and Mila](https://pee-poo.herokuapp.com/#/)
 
 
 Overview
